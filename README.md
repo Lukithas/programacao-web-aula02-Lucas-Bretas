@@ -1,29 +1,26 @@
 # Atividades da Disciplina de Programação Web
 
-Este repositório contém as atividades e projetos desenvolvidos durante a disciplina de Programação Web no [Nome da sua Instituição de Ensino] no período de [Seu Período Letivo, ex: 2023.2].
+Este repositório contém as atividades e projetos desenvolvidos durante a disciplina de Programação Web no [UniCEUB] no período de [2025.2].
 
 ## 🎯 Objetivo
 
-O objetivo principal destes trabalhos é aplicar os conceitos fundamentais de desenvolvimento web, incluindo front-end e back-end, para criar aplicações funcionais e interativas.
+O objetivo principal destes trabalhos é aplicar os conceitos fundamentais de desenvolvimento web, incluindo front-end, para criar aplicações funcionais e interativas.
 
 ## 🛠️ Tecnologias Utilizadas
 
 As seguintes tecnologias foram empregadas no desenvolvimento dos projetos:
 
 * **Front-End:** HTML5, CSS3, JavaScript (ES6+)
-* **Back-End:** [Ex: Node.js, Python com Flask/Django, PHP]
-* **Frameworks/Bibliotecas:** [Ex: React, Vue.js, Bootstrap, Express.js]
-* **Banco de Dados:** [Ex: MySQL, PostgreSQL, MongoDB]
-* **Ferramentas:** Git, VS Code, [Outras ferramentas que você usou]
+* **Ferramentas:** Git, VS Code.
 
 ## 📁 Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
 
-* **/trabalho-01:** (https://drive.google.com/drive/folders/13rV9yHflYCwUrjxytmC0mdpGuD9FRE-O?hl=pt-br)
-* **/trabalho-02:** Descrição breve do segundo trabalho (ex: Manipulação do DOM e eventos com JavaScript).
-* **/projeto-final:** Descrição do projeto final (ex: Desenvolvimento de uma aplicação web completa com front-end e back-end).
-* **...** (continue listando outras atividades importantes)
+* **/trabalho-01:** https://drive.google.com/drive/folders/1NRyU5M9Nb87vu0XW69wLsD0-RVaC2zLG?hl=pt-br
+* **/trabalho-02:** https://drive.google.com/drive/folders/1yPaF_KCZGgqAdGTrB2Lj2TSjPMK9GfLD?hl=pt-br
+* **/trabalho-03:** https://drive.google.com/drive/folders/1NG6pAJeeEvUyQLmXSNPgS-XiXLZkPmHo?hl=pt-br
+
 
 ## 🚀 Como Executar
 
@@ -41,7 +38,7 @@ Para visualizar ou executar os projetos localmente, siga as instruções contida
 
 ## 👤 Autor
 
-* **Nome:** [Seu Nome Completo]
-* **Email:** [Seu Email]
-* **LinkedIn:** https://pt.linkedin.com/ (Opcional)
-* **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+* **Nome:** [Lucas Bretas Prata de Pinho Tavares]
+* **Email:** [lucasbretasprata@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/lucas-bretas-451263357/]
+* **GitHub:** [@Lukithas] (https://github.com/Lukithas)
